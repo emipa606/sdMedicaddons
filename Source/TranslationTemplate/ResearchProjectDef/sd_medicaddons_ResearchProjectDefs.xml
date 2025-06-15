@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: industrial medical care -->
+  <sd_medicaddons_research_industrial_med.label>industrial medical care</sd_medicaddons_research_industrial_med.label>
+  <!-- EN: Setting up a hospital area in your colony with these instruments will increase your colonists chances of survival. New means to set up your medical area somewhat civilized. -->
+  <sd_medicaddons_research_industrial_med.description>Setting up a hospital area in your colony with these instruments will increase your colonists chances of survival. New means to set up your medical area somewhat civilized.</sd_medicaddons_research_industrial_med.description>
+  <!-- EN: medieval medical care -->
+  <sd_medicaddons_research_medieval_med.label>medieval medical care</sd_medicaddons_research_medieval_med.label>
+  <!-- EN: New means to set up your medical area medieval style. -->
+  <sd_medicaddons_research_medieval_med.description>New means to set up your medical area medieval style.</sd_medicaddons_research_medieval_med.description>
+  <!-- EN: spacer medical care -->
+  <sd_medicaddons_research_spacer_med.label>spacer medical care</sd_medicaddons_research_spacer_med.label>
+  <!-- EN: Your latest advancements in technology should be visible in all parts of your colony. New means to set up your medical area like a space ship. -->
+  <sd_medicaddons_research_spacer_med.description>Your latest advancements in technology should be visible in all parts of your colony. New means to set up your medical area like a space ship.</sd_medicaddons_research_spacer_med.description>
+</LanguageData>

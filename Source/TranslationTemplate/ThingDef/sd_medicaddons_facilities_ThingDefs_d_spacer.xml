@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: spacer surgery instruments -->
+  <sd_medicaddons_spacer_surg_instruments.label>spacer surgery instruments</sd_medicaddons_spacer_surg_instruments.label>
+  <!-- EN: If i use the plasma cutter here this should work. Sounds not very convincing, but the patient will feel no pain. Atleast thats what the advertisment says. Needs to be placed adjacent to a bed. One bed can be linked to only one of the same kind, but multiple beds can use the same one. -->
+  <sd_medicaddons_spacer_surg_instruments.description>If i use the plasma cutter here this should work. Sounds not very convincing, but the patient will feel no pain. Atleast thats what the advertisment says. Needs to be placed adjacent to a bed. One bed can be linked to only one of the same kind, but multiple beds can use the same one.</sd_medicaddons_spacer_surg_instruments.description>
+  <!-- EN: spacer surgery lamp -->
+  <sd_medicaddons_spacer_surg_lamp.label>spacer surgery lamp</sd_medicaddons_spacer_surg_lamp.label>
+  <!-- EN: The newest advacement in surgery technologie, literally a floating ball of light. Needs to be placed adjacent to a bed. One bed can be linked to only one of the same kind, but multiple beds can use the same one. -->
+  <sd_medicaddons_spacer_surg_lamp.description>The newest advacement in surgery technologie, literally a floating ball of light. Needs to be placed adjacent to a bed. One bed can be linked to only one of the same kind, but multiple beds can use the same one.</sd_medicaddons_spacer_surg_lamp.description>
+  <!-- EN: spacer vitalsmonitor -->
+  <sd_medicaddons_spacer_surg_vitalsmonitor.label>spacer vitalsmonitor</sd_medicaddons_spacer_surg_vitalsmonitor.label>
+  <!-- EN: New and improved: Not much like the normal vitalsmonitor, since this baby comes with a set of new functions to monitor the patients. Needs to be placed adjacent to a bed. One bed can be linked to only one of the same kind, but multiple beds can use the same one. -->
+  <sd_medicaddons_spacer_surg_vitalsmonitor.description>New and improved: Not much like the normal vitalsmonitor, since this baby comes with a set of new functions to monitor the patients. Needs to be placed adjacent to a bed. One bed can be linked to only one of the same kind, but multiple beds can use the same one.</sd_medicaddons_spacer_surg_vitalsmonitor.description>
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: industrial surgery instruments -->
+  <sd_medicaddons_industrial_surg_instruments.label>industrial surgery instruments</sd_medicaddons_industrial_surg_instruments.label>
+  <!-- EN: These instruments still look scary, but will not affect your treatment chances. Needs to be placed adjacent to a bed. One bed can be linked to only one of the same kind, but multiple beds can use the same one. -->
+  <sd_medicaddons_industrial_surg_instruments.description>These instruments still look scary, but will not affect your treatment chances. Needs to be placed adjacent to a bed. One bed can be linked to only one of the same kind, but multiple beds can use the same one.</sd_medicaddons_industrial_surg_instruments.description>
+  <!-- EN: industrial surgery lamp -->
+  <sd_medicaddons_industrial_surg_lamp.label>industrial surgery lamp</sd_medicaddons_industrial_surg_lamp.label>
+  <!-- EN: Shining a light on things gets a whole new meaning if you are standing over an open body during an operation. Needs to be placed adjacent to a bed. One bed can be linked to only one of the same kind, but multiple beds can use the same one. -->
+  <sd_medicaddons_industrial_surg_lamp.description>Shining a light on things gets a whole new meaning if you are standing over an open body during an operation. Needs to be placed adjacent to a bed. One bed can be linked to only one of the same kind, but multiple beds can use the same one.</sd_medicaddons_industrial_surg_lamp.description>
+</LanguageData>

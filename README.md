@@ -1,4 +1,4 @@
-# [[sd] medicaddons (Continued)]()
+# [[sd] medicaddons (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=3325079510)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
@@ -9,10 +9,10 @@ based on the update by zyMex https://steamcommunity.com/sharedfiles/filedetails/
 - Removed the extra research-tab
 - Updated the included patches
 
-![Image](https://i.imgur.com/pufA0kM.png)
-
 Addition by zyMex
 - Include dr zhivago's VFE patch
+
+![Image](https://i.imgur.com/pufA0kM.png)
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
 
@@ -78,16 +78,6 @@ research cost for the 3 projects are 100, 200, and 300 points in the correspondi
 
 the diseases and operations are balanced around the vanilla game. the boni from the mod are minor, but especially using the space tech level stuff will make the diseases way less challenging. with how the mechanic of them work to be challenging in the base game, even slight boni will take this away. so you might loose out on some ingame fun there :D
 
-*Ludeon forum topic:*
-https://ludeon.com/forums/index.php?topic=26276
-(has dropbox links,since steam don't seem to like them for soem reason -.-)
-
-**Dropbox:** https://www.dropbox.com/s/ri36v7e56lg1eb4/sd_medicaddons_v1.7z?dl=0
-
-**GitHub:** https://github.com/sulusdacor/sd_medicaddons/releases
-
-Version for previous Rimworld versions can be found in my dropbox folder with older mods: https://www.dropbox.com/sh/zicyfuehl0aeta2/AADHVYYYU8yhJ2yUWttwnf1ma?dl=0
-
 **Compatibility Patches**
 [color=orange][size=18pt]Compatibility Patches[/size][/color]
 
@@ -115,4 +105,6 @@ so far it includes:
 -  If you have the solution for a problem, please post it to the GitHub repository.
 -  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+ 
 
+[![Image](https://img.shields.io/github/v/release/emipa606/sdMedicaddons?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/3325079510) | tags: medical facilities

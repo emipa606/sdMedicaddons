@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: medieval surgery instruments -->
+  <sd_medicaddons_medieval_surg_instruments.label>medieval surgery instruments</sd_medicaddons_medieval_surg_instruments.label>
+  <!-- EN: The fear of an operation with these instruments will speed up the recovery of your colonists. Needs to be placed adjacent to a bed. One bed can be linked to only one of the same kind, but multiple beds can use the same one. -->
+  <sd_medicaddons_medieval_surg_instruments.description>The fear of an operation with these instruments will speed up the recovery of your colonists. Needs to be placed adjacent to a bed. One bed can be linked to only one of the same kind, but multiple beds can use the same one.</sd_medicaddons_medieval_surg_instruments.description>
+  <!-- EN: medieval surgery lamp -->
+  <sd_medicaddons_medieval_surg_lamp.label>medieval surgery lamp</sd_medicaddons_medieval_surg_lamp.label>
+  <!-- EN: Let there be light and the doctor suddenly realized he was amputating the healthy leg. Needs to be placed adjacent to a bed. One bed can be linked to only one of the same kind, but multiple beds can use the same one. -->
+  <sd_medicaddons_medieval_surg_lamp.description>Let there be light and the doctor suddenly realized he was amputating the healthy leg. Needs to be placed adjacent to a bed. One bed can be linked to only one of the same kind, but multiple beds can use the same one.</sd_medicaddons_medieval_surg_lamp.description>
+  <!-- EN: medieval wash pan -->
+  <sd_medicaddons_medieval_surg_washpan.label>medieval wash pan</sd_medicaddons_medieval_surg_washpan.label>
+  <!-- EN: The most simple device to keep your doctors hands clean. Needs to be placed adjacent to a bed. One bed can be linked to only one of the same kind, but multiple beds can use the same one. -->
+  <sd_medicaddons_medieval_surg_washpan.description>The most simple device to keep your doctors hands clean. Needs to be placed adjacent to a bed. One bed can be linked to only one of the same kind, but multiple beds can use the same one.</sd_medicaddons_medieval_surg_washpan.description>
+</LanguageData>

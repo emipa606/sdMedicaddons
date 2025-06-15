@@ -11,6 +11,7 @@
     <li>1.3</li>
     <li>1.4</li>
     <li>1.5</li>
+    <li>1.6</li>
   </supportedVersions>
   <modDependencies />
   <loadAfter />
@@ -22,10 +23,10 @@ based on the update by zyMex https://steamcommunity.com/sharedfiles/filedetails/
 - Removed the extra research-tab
 - Updated the included patches
 
-[img]https://i.imgur.com/pufA0kM.png[/img]
-
 Addition by zyMex
 - Include dr zhivago's VFE patch
+
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
     [tr][td][url=https://dsc.gg/mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td] [td][url=https://github.com/emipa606/sdMedicaddons][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
@@ -97,16 +98,6 @@ research cost for the 3 projects are 100, 200, and 300 points in the correspondi
 
 the diseases and operations are balanced around the vanilla game. the boni from the mod are minor, but especially using the space tech level stuff will make the diseases way less challenging. with how the mechanic of them work to be challenging in the base game, even slight boni will take this away. so you might loose out on some ingame fun there :D
 
-[i]Ludeon forum topic:[/i]
-https://ludeon.com/forums/index.php?topic=26276
-(has dropbox links,since steam don't seem to like them for soem reason -.-)
-
-[b]Dropbox:[/b] https://www.dropbox.com/s/ri36v7e56lg1eb4/sd_medicaddons_v1.7z?dl=0
-
-[b]GitHub:[/b] https://github.com/sulusdacor/sd_medicaddons/releases
-
-Version for previous Rimworld versions can be found in my dropbox folder with older mods: https://www.dropbox.com/sh/zicyfuehl0aeta2/AADHVYYYU8yhJ2yUWttwnf1ma?dl=0
-
 [b]Compatibility Patches[/b]
 [color=orange][size=18pt]Compatibility Patches[/size][/color]
 
@@ -131,6 +122,8 @@ so far it includes:
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
 [*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
-[/list]</description>
-  <modVersion IgnoreIfNoMatchingField="True">1.5.1</modVersion>
+[/list] 
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3325079510][img]https://img.shields.io/github/v/release/emipa606/sdMedicaddons?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | tags: medical facilities</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.6.0</modVersion>
 </ModMetaData>
