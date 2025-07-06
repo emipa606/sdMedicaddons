@@ -43,7 +43,7 @@
       <li>Vanilla Furniture Expanded - Spacer Module</li>
     </mods>
     <match Class="PatchOperationAdd">
-      <xpath>Defs/ThingDef[defName="Bed_AdvBed" or defName="Bed_AdvDoubleBed"]/comps/li[@Class = "CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
+      <xpath>Defs/ThingDef[@Name="VFES_AdvancedBedBase"]/comps/li[@Class = "CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
       <value>
         <li>sd_medicaddons_medieval_surg_washpan</li>
         <li>sd_medicaddons_medieval_surg_instruments</li>

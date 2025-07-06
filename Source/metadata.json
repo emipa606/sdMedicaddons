@@ -4,6 +4,12 @@
   "CanRemove": "2",
   "SocialImageSet": true,
   "PreviewVersion": "1.6",
-  "LastXmlCleaning": "2025-06-15T20:22:26.7873838+02:00",
-  "SearchTags": "medical facilities"
+  "LastXmlCleaning": "2025-07-06T16:47:04.7310371+02:00",
+  "SearchTags": "medical facilities",
+  "Patches": true,
+  "Defs": true,
+  "Assemblies": false,
+  "LinesOfCode": 0,
+  "LinesOfXML": 51746,
+  "CodeBaseSize": 74
 }
